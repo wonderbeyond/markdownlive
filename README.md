@@ -2,6 +2,12 @@
 
 Markdown plugin implemention propose.
 
+## Inspirations
+
+- https://github.com/lepture/markit/
+- https://github.com/knsv/mermaid
+- https://stackedit.io/
+
 ## Example
 
     ```live:slide
